@@ -13,6 +13,8 @@ let myFavoriteSong = "MF Doom - Red and Gold"
 console.log(myFavoriteSong)
 console.log(`My favorite song is ${myFavoriteSong}`)
 
+// Comment: I was able to figure this out easy
+
 /*
  * Prompt 2:
  *
@@ -31,6 +33,8 @@ let thirdJoJo = "Jotaro Kujo"
 console.log(`${firstJoJo} (1868 - 1889)`)
 console.log(`${secondJoJo} (1920 - Present)`)
 console.log(`${thirdJoJo} (1971 - 2012)`)
+
+// Comment: I was able to figure this out easy
 
 
 /*
@@ -56,7 +60,7 @@ console.log(funnyNumber * 3)
 console.log(funnyNumber / 7)
 console.log(funnyNumber % 2)
 
-
+// Comment: I was able to figure this out easy
 
 
 
@@ -80,7 +84,7 @@ console.log("---------")
 let firstName = "Jolyne"
 let lastName = "Cujoh"
 
-fullName = firstName, lastName
+fullName = firstName, lastName // Learned this syntax from Python, works in JavaScript too!
 
 console.log(`${fullName} (1992-2012), daughter of ${thirdJoJo}`)
 
@@ -99,8 +103,9 @@ let movies = ["Scarface", "Coming To America", "The Batman", "Marriage Story"]
 movies.push("Heat")
 movies.unshift("The Killer")
 console.log(movies)
-movies.splice(2, 0, "Blade") // sara.season figured this one out
+movies.splice(2, 0, "Blade") // I couldnt figure this out. sara.season figured this one out
 // First arguement tells it where to go, second says how many items to remove, third is what to actually add
+// Reused it for last prompt
 console.log(movies)
 
 
@@ -131,6 +136,7 @@ console.log(array1[2])
 console.log(array2[1][1])
 console.log(array3[1][1][1][0])
 
+// Comment: This took some time, realized if i was wrong with the index, it would ask for the index of a STRING, not an array
 
 /*
  *
@@ -144,6 +150,8 @@ console.log("PROMPT - Retrieve the letter D")
 console.log("---------")
 
 console.log(array4[array4.length - 2])
+
+// Comment: Medium difficulty
 
 /*
  *
@@ -183,3 +191,4 @@ kristyn.pop("Pittsburgh")
 kristyn.push("Oakland")
 console.log(kristyn)
 
+// Comment: Time consuming, had to look at lesson repo to remember array methods. Kinda rough.
