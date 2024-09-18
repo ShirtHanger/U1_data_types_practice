@@ -194,4 +194,4 @@ kristyn.pop("Pittsburgh")
 kristyn.push("Oakland")
 console.log(kristyn)
 
-// Comment: Time consuming, had to look at lesson repo to remember array methods. Kinda rough.
+// Comment: Time consuming, I had to look at lesson repo to remember array methods. Kinda rough.
