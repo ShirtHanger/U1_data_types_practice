@@ -101,6 +101,8 @@ console.log("---------")
 let movies = ["Scarface", "Coming To America", "The Batman", "Marriage Story"]
 console.log(movies)
 
+// Kept lesson up just incase I forgot any of these
+
 movies.push("Heat")
 movies.unshift("The Killer")
 console.log(movies)
@@ -137,7 +139,7 @@ console.log(array1[2])
 console.log(array2[1][1])
 console.log(array3[1][1][1][0])
 
-// Comment: This took some time, realized if i was wrong with the index, it would ask for the index of a STRING, not an array
+// Comment: This took some time, realized if i was wrong with the index, it would return the index of a STRING, not an array
 
 /*
  *
@@ -185,7 +187,7 @@ console.log(thom)
 karolin[1] += 1
 console.log(karolin)
 
-cathleen.splice(2, 1, "Gotham City")
+cathleen.splice(2, 1, "Gotham City") // Reuse of splice, which sara.season figured out
 console.log(cathleen)
 
 kristyn.pop("Pittsburgh")
