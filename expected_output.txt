@@ -1,0 +1,61 @@
+---------
+PROMPT 1
+---------
+MF DOOM - Red and Gold
+My favorite song is MF DOOM - Red and Gold
+---------
+PROMPT 2
+---------
+Jonathan Joestar (1868 - 1889)
+Joseph Joestar (1920 - Present)
+Jotaro Kujo (1971 - 2012)
+---------
+PROMPT 3
+---------
+95
+32
+222
+10.571428571428571
+0
+---------
+PROMPT 4
+---------
+Jolyne (1992-2012), daughter of Jotaro Kujo
+---------
+PROMPT - Arrays
+---------
+[ 'Scarface', 'Coming To America', 'The Batman', 'Marriage Story' ]
+[
+  'The Killer',
+  'Scarface',
+  'Coming To America',
+  'The Batman',
+  'Marriage Story',
+  'Heat'
+]
+[
+  'The Killer',
+  'Scarface',
+  'Blade',
+  'Coming To America',
+  'The Batman',
+  'Marriage Story',
+  'Heat'
+]
+---------
+PROMPT - Retrieve Marty McFly
+---------
+Marty McFly
+Marty McFly
+Marty McFly
+---------
+PROMPT - Retrieve the letter D
+---------
+d
+---------
+PROMPT - Subprompts
+---------
+[ 'Tom', 1000, 'Christchurch' ]
+[ 'Karolin', 17, 'New York' ]
+[ 'Cathleen', 186, 'Gotham City' ]
+[ 'Kristyn', 5, 'Oakland' ]

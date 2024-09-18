@@ -9,7 +9,7 @@ console.log("---------")
 console.log("PROMPT 1")
 console.log("---------")
 
-let myFavoriteSong = "MF Doom - Red and Gold"
+let myFavoriteSong = "MF DOOM - Red and Gold"
 console.log(myFavoriteSong)
 console.log(`My favorite song is ${myFavoriteSong}`)
 
@@ -99,6 +99,7 @@ console.log("PROMPT - Arrays")
 console.log("---------")
 
 let movies = ["Scarface", "Coming To America", "The Batman", "Marriage Story"]
+console.log(movies)
 
 movies.push("Heat")
 movies.unshift("The Killer")
